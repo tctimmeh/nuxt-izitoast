@@ -1,9 +1,9 @@
 {
   "name": "nuxt-izitoast",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Nuxt module for the izitoast notification library",
   "main": "index.js",
-  "repository": "https://tbd.later.com/nuxt-izitoast/",
+  "repository": "https://github.com/tctimmeh/nuxt-izitoast",
   "author": "Tim Court <tctimmeh@gmail.com>",
   "license": "MIT",
   "dependencies": {
