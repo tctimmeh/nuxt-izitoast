@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://tbd.later.com/nuxt-izitoast/",
   "author": "Tim Court <tctimmeh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "izitoast": "^1.2.0"
+  }
 }
