@@ -1,6 +1,6 @@
 {
   "name": "nuxt-izitoast",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Nuxt module for the izitoast notification library",
   "main": "index.js",
   "repository": "https://github.com/tctimmeh/nuxt-izitoast",
