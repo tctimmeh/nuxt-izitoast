@@ -1,12 +1,12 @@
 {
   "name": "nuxt-izitoast",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Nuxt module for the izitoast notification library",
   "main": "index.js",
-  "repository": "https://github.com/tctimmeh/nuxt-izitoast",
-  "author": "Tim Court <tctimmeh@gmail.com>",
+  "repository": "gitlab:sweetgum/nuxt-izitoast.git",
+  "author": "Sweetgum Software Inc. <info@sweetgumsoftware.com>",
   "license": "MIT",
   "dependencies": {
-    "izitoast": "^1.2.0"
+    "izitoast": "^1.4.0"
   }
 }

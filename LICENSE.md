@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Timothy Michael Court
+Copyright (c) 2019 Sweetgum Software Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,6 +1,6 @@
 # nuxt-izitoast
 
-Nuxt module for the [iziToast](http://izitoast.marcelodolce.com/) notification library.
+Nuxt module for the [iziToast](http://izitoast.marcelodolza.com/) notification library.
 
 ## Setup
 
